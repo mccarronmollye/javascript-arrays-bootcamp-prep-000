@@ -1,7 +1,7 @@
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 //var anothaOne = ["crunch"]
-addElementToBeginningOfArray (chocolateBars, element) [
-  chocolateBars.unshift(element)
+addElementToBeginningOfArray (array, element) [
+  array.unshift(element)
 ]
 //destructivelyAddElementToBeginningOfArray (chocolateBars, "crunch") [
   //chocolateBars = ["crunch", ...chocolateBars]
