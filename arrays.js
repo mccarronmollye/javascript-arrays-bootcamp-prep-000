@@ -1,6 +1,6 @@
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 //var anothaOne = ["crunch"]
-addElementToBeginningOfArray (array, element) [
+addElementToBeginningOfArray(array, element) [
   array.unshift(element)
 ]
 //destructivelyAddElementToBeginningOfArray (chocolateBars, "crunch") [
